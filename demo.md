@@ -6,7 +6,7 @@ This is the second line!
 
 ## Subtitle
 
-This is the third line.
+This is the third line from the master.
 
 And a final fourth line. This is it.
 
