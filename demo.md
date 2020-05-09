@@ -6,7 +6,7 @@ This is the second line!
 
 ## Subtitle
 
-This is the third line.
+This is the third line, special for the conflict-test branch.
 
 And a final fourth line. This is it.
 
